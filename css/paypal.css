@@ -1,0 +1,20 @@
+/* purchase */
+.purchase_container {
+  margin: auto;
+  padding: 180px 0 200px 0;
+  text-align: center;
+}
+
+.purchase_container img {
+  width: var(--images-width);
+}
+
+.purchase_title {
+  max-width: 400px;
+  margin: auto;
+}
+
+.purchase_title h2 {
+  color: var(--gray-dark-color);
+}
+/* purchase */
